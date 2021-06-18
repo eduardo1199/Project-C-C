@@ -1,0 +1,4 @@
+resposta da expressão 1 = 1 (true)
+respota da expressão 2 = -2
+respota da expressão 3 = 3
+resposta da expressão 4 = 10
