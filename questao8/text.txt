@@ -1,0 +1,2 @@
+O primeiro laço com o operador *(vet+i), anda pelo array buscando seus valores dentro da memoria.
+O segundo laço com o operador vet+i, busca o endereço de cada elemento do array na memoria.

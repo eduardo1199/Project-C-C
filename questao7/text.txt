@@ -1,0 +1,4 @@
+cannot increment value of type int[4] => o seguinte erro é mostrado para as operações  
+p = mat++ ou  p = ++mat;
+
+O motivo é que o operador ++ é uma abreviatura de mat = mat + 1, dessa forma não posso incrementar valores inteiros a uma variavel do tipo array.

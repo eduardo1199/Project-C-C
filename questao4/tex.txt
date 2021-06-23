@@ -1,0 +1,40 @@
+
+/* (a) */
+//a uma troca de valor no enderaço de memoria na qual foi guardado o 10, correto valor esperado. saida = 20;
+
+/* (b) */
+//a uma troca de valor no enderaço de memoria na qual foi guardado o 29.0, correto valor esperado. saida = 29.0
+
+/* (c) */
+//expressão pega o endereço na memoria do primeiro caractere do vetor de caracteres "Ponteiros", que no caso é P. Saida = P
+
+/* (d) */
+//expressão pega o endereço na memoria do elemento de índice 4  do vetor de caracteres "Ponteiros", que no caso é e. Saida = e
+
+/* (e) */
+//moria ele vai pegar o primeiro elemento. Saida = P
+
+/* (f) */
+//o que aconteceu foi um andamento de 4 bytes dentro da memoria do localizada no vetor, pegando o caractere de "e" como resultado saida = e
+
+/* (g) */
+//o que aconteceu foi um decremento de 1 bytes dentro da memoria do localizada no vetor, pegando o caractere de "t" como resultado saida = e
+
+/* (h) */
+//mesma situação do vetor de caracteres, o que foi pego foi o primeiro elemento do vetor localizado na memoria. saida = 31
+
+/* (i) */
+//houve uma atribuição em p5 do vetor através de sua localização na memoria, dessa forma foi acrescentado um andamento de 1 byte para o valor de
+// 45. saida = 45
+
+/* (j) */
+//houve uma atribuição em p4 do vetor através de sua localização na memoria, dessa forma foi acrescentado um andamento de 1 byte para o valor de
+// 27. saida = 27
+
+/* (l) */
+//decresmo de bytes para primeira posição do vetor. saida = 31
+
+/* (m) */
+//P5 armazena o valor na memoria da posição do elemento de índice 1, seguida imprime o valor naquela memoria.
+/* (n) */
+//acrescimento de 1 bytes para localização do elementoo de índice 2 no vetor.

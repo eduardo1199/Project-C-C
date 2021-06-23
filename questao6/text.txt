@@ -1,0 +1,2 @@
+*(pulo + 2) => apenas essa operação acessa o valor do terceiro vetor, que constitui na pulo de duas unidades na memoria no caso, 8 bytes para acessar o valor com o
+a operação (*) 
