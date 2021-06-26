@@ -1,0 +1,3 @@
+aloha = value; => essa atribuição está incorreta devido a atribuição de uma valor no array sem especificar a posição.
+coisas[5] = aloha; => essa atribuição está incorreta devido a coisas ser uma matriz e não um array, não é possivel atribuir esse valor ao mesmo.
+pf = value; => não se pode atribuir um ponteiro * float para um valor do tipo float

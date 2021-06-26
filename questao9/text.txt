@@ -1,0 +1,17 @@
+◦ x for declarado como char?
+
+para x+1 = acessa o segundo elemento do array de string localizado na memoria 4093
+para x+2 = acessa o terceito elemento do array de string localizado na memoria 4094
+para x+3 = acessa o quarto elemento do array de string localizado na memoria 4095
+
+◦ x for declarado como int?
+
+para x+1 = acessa o segundo elemento do array de int localizado na memoria 4094
+para x+2 = acessa o terceito elemento do array de int localizado na memoria 4096
+para x+3 = acessa o quarto elemento do array de int localizado na memoria 4098
+
+◦ x for declarado como float?
+
+para x+1 = acessa o segundo elemento do array de int localizado na memoria 4096
+para x+2 = acessa o terceito elemento do array de int localizado na memoria 409
+para x+3 = acessa o quarto elemento do array de int localizado na memoria 4098
